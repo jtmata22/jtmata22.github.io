@@ -13,10 +13,8 @@ business operations, and problems without obvious answers.
 - [Home](https://jtmata22.github.io)
 - [About Me](https://jtmata22.github.io/about.html)
 - [Projects](https://jtmata22.github.io/projects.html)
-- [Reading](https://jtmata22.github.io/reading.html)
-- [Pets](https://jtmata22.github.io/pets.html)
-- [Thoughts](https://jtmata22.github.io/thoughts.html)
-- [Contact](https://jtmata22.github.io/contact.html)
+- [Meet my pets](https://jtmata22.github.io/pets.html)
+- [Résumé](https://jtmata22.github.io/resume.pdf)
 
 ## Selected work
 
