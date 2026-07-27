@@ -10,12 +10,8 @@ business operations, and problems without obvious answers.
 
 ## Explore
 
-- [Home](https://jtmata22.github.io)
-- [About Me](https://jtmata22.github.io/about.html)
-- [Projects](https://jtmata22.github.io/projects.html)
-- [Meet my pets](https://jtmata22.github.io/pets.html)
-- [Résumé](https://jtmata22.github.io/resume.pdf)
-
+- [Home](https://jtmata22.github.io/index.html)
+  
 ## Selected work
 
 - Business literacy curriculum for underserved youth
