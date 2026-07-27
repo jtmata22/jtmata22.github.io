@@ -11,6 +11,8 @@ business operations, and problems without obvious answers.
 ## Explore
 
 - [Home](https://jtmata22.github.io/index.html)
+- [About](https://jtmata22.github.io/about.html)
+- [Projects](https://jtmata22.github.io/projects.html)
   
 ## Selected work
 
