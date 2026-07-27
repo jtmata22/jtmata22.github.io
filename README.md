@@ -1,17 +1,22 @@
 # Jasmine Trujillo Mata
 
-Personal website and evolving archive for Jasmine Trujillo Mata, a UC Berkeley senior studying Business Administration and Data Science.
+Personal website and evolving archive for Jasmine Trujillo Mata, a UC Berkeley
+senior studying Business Administration and Data Science.
 
-Jasmine builds systems that help organizations move faster, including compliance systems, automation workflows, data pipelines, and business literacy curriculum. She is especially interested in governance, risk and compliance, business operations, and problems without obvious answers.
+Jasmine builds systems that help organizations move faster, including
+compliance systems, automation workflows, data pipelines, and business literacy
+curriculum. She is especially interested in governance, risk and compliance,
+business operations, and problems without obvious answers.
 
 ## Explore
 
 - [Home](https://jtmata22.github.io)
 - [About Me](https://jtmata22.github.io/about.html)
 - [Projects](https://jtmata22.github.io/projects.html)
-- [Travel](https://jtmata22.github.io/travel.html)
-- [Reading & Watching](https://jtmata22.github.io/reading-watching.html)
+- [Reading](https://jtmata22.github.io/reading.html)
+- [Pets](https://jtmata22.github.io/pets.html)
 - [Thoughts](https://jtmata22.github.io/thoughts.html)
+- [Contact](https://jtmata22.github.io/contact.html)
 
 ## Selected work
 
@@ -24,6 +29,7 @@ Jasmine builds systems that help organizations move faster, including compliance
 
 ## Connect
 
-[GitHub](https://github.com/jtmata22)
+- [GitHub](https://github.com/jtmata22)
+- [LinkedIn](https://www.linkedin.com/)
 
-This site is built with HTML, CSS, and JavaScript and hosted with GitHub Pages.
+This site is built with HTML and CSS and hosted with GitHub Pages.
